@@ -1,0 +1,25 @@
+header {
+	background-color: #999;
+}
+header h1{
+	text-align: left;
+	padding-left: 20px;
+	font-size: 60px;
+	margin: 0;
+}
+
+nav ul {
+	margin: 0;
+	font-size: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 10px;
+}
+
+body{
+	background: white;
+	margin: 0;
+}
